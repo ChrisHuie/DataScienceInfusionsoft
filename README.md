@@ -32,22 +32,22 @@
 
 ## Volunteer Opportunities
 *Help Lake Havasu High Teach CS*    
-    - 1 or 2 more volunteers to help their lone High School CS teacher who teach 100+ students
-    - Mentoring/teaching code over video conference to her and other interested teachers
-    - Curriculum guidance prep
+- 1 or 2 more volunteers to help their lone High School CS teacher who teach 100+ students
+- Mentoring/teaching code over video conference to her and other interested teachers
+- Curriculum guidance prep
 
 *Web Dev After School Program for Latino 8th Grade Boys*
-    - Central & Camelback area (Loyola Academy)
-    - 12 or so students
+- Central & Camelback area (Loyola Academy)
+- 12 or so students
     
 *Coding at Desert Meadows Middle School*
-    - Laveen
-    - During normal school hours
-    - Goal is as much to show off development as a profession as  to teach
+- Laveen
+- During normal school hours
+- Goal is as much to show off development as a profession as  to teach
     
 *[Code Day Volunteer](https://www.codeday.org/volunteer/apply?region=phoenix)*
-    - Feb. 16th-17th (noon - noon)
-    - Student Hackathon
+- Feb. 16th-17th (noon - noon)
+- Student Hackathon
     
 *Chief Science Officer Program*
-    - Always looking for volunteers to represent tech at a local school campus near you!
+- Always looking for volunteers to represent tech at a local school campus near you!
