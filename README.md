@@ -8,7 +8,7 @@
 - Jan. 24th (Thur) - [Learn Programming Fundamentals with JavaScript](https://www.eventbrite.com/e/learn-programming-fundamentals-with-javascript-tickets-54505844448)
 - Jan. 24th-25th (Thur-Fri) - [2019 Southwest Robotics Symposium](https://swrobotics.engineering.asu.edu/)
 - Jan. 26th (Sat) - [IoT DevFest ($30)](https://ti.to/iot-devfest/iot-devfest-2019/discount/MEETUPMEETUP)
-- Feb. 2nd (Sat) - [Open Hack Day at Galvanize! Come Build Rad Stuff with Other Phoenix Engineers, Devs, & Data Scientists](https://www.eventbrite.com/e/open-hack-day-at-galvanize-come-build-rad-stuff-with-other-phoenix-engineers-devs-data-scientists-tickets-55254313138)
+- Feb. 2nd (Sat) - [Open Hack Day at Galvanize! Come Build Rad Stuff with Other Engineers, Devs, & Data Scientists](https://www.eventbrite.com/e/open-hack-day-at-galvanize-come-build-rad-stuff-with-other-phoenix-engineers-devs-data-scientists-tickets-55254313138)
 - Feb. 5th (Tue) - [Intermediate SQL with Microsoft SQL Server](https://www.eventbrite.com/e/intermediate-sql-with-microsoft-sql-server-tickets-54950673945)
 
 
